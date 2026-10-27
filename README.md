@@ -31,6 +31,11 @@ Websites I have built and look after:
 - [srmkfoundation.com](https://srmkfoundation.com)
 - [makkahgrill.co.uk](https://makkahgrill.co.uk) — restaurant website (UK)
 - [ctgaccountingservices.com](https://ctgaccountingservices.com) — accounting services website
+- [zakariataher.com](https://zakariataher.com)
+- [avoncollegelondon.co.uk](https://avoncollegelondon.co.uk) — college website (London, UK)
+- [zainglobal.co.uk](https://zainglobal.co.uk)
+- [wildanlegal.com](https://wildanlegal.com) — legal services website
+- [smokeend.co.uk](https://smokeend.co.uk)
 - [cumillasdnews24.com](https://cumillasdnews24.com)
 - [comillanews.com](https://comillanews.com)
 - [protikritcumilla.com](https://protikritcumilla.com)
