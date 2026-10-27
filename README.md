@@ -21,7 +21,7 @@ I design, build and run practical web systems for real organizations — primary
 | **School Management System** | Multi-school administration for primary schools — [school.techsmartbd.com](https://school.techsmartbd.com) | PHP 8 · MySQL · PDO |
 | **Bondhu Society** | Monthly deposit & accounts system for a savings society, with an Android app — [bscumilla.com](https://bscumilla.com) | PHP · MySQL · Android WebView |
 | **Renewal Tracker** | Tracks client domain/hosting expiries, daily email reminders before expiry — [renew.techsmartbd.com](https://renew.techsmartbd.com) | PHP · MySQL · Cron |
-| **Laksam TV News** | Online news portal — [laksamtvnews.com](https://laksamtvnews.com) | WordPress |
+| **Daily Comilla News** | Online news portal — [dailycomillanews.com](https://dailycomillanews.com) | WordPress |
 | **Student Consultancy CRM** | Student consultancy management — student records, applications and follow-ups — [crm.techsmartbd.com](https://crm.techsmartbd.com) | PHP · MySQL |
 
 ## 🌐 More Live Websites
@@ -31,7 +31,6 @@ Websites I have built and look after:
 - [srmkfoundation.com](https://srmkfoundation.com)
 - [makkahgrill.co.uk](https://makkahgrill.co.uk) — restaurant website (UK)
 - [ctgaccountingservices.com](https://ctgaccountingservices.com) — accounting services website
-- [dailycomillanews.com](https://dailycomillanews.com)
 - [cumillasdnews24.com](https://cumillasdnews24.com)
 - [comillanews.com](https://comillanews.com)
 - [protikritcumilla.com](https://protikritcumilla.com)
